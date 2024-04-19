@@ -1,6 +1,7 @@
 __pycache__/
 # data/*
 data/radar/*
+data/laser/*
 **/.DS_Store
 
 

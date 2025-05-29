@@ -2,7 +2,7 @@ __pycache__/
 # data/*
 data/radar/*
 data/laser/*
+!data/laser/gla_region.gpkg
 **/.DS_Store
 课程框架.docx
 **/教案*
-
